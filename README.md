@@ -1,3 +1,3 @@
 # rubix-cube-ai-trainning-set
 
-all images are fond on google
+all images are found on google
